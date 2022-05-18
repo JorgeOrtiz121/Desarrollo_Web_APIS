@@ -1,0 +1,16 @@
+
+.alto {
+    @media (min-width:992px) {
+        height: 100vh;
+    }
+
+}
+.container-general{
+    background-color: green;
+}
+.finish{
+    color: cadetblue;
+}
+#btin{
+background-color: green;
+}
